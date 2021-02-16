@@ -1,0 +1,35 @@
+.main-content {
+    display: flex;
+    justify-content: center;
+    padding-top: 120px;
+    padding-bottom: 70px;
+}
+
+.box-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    flex-basis: 500px;
+}
+
+.box-documents {
+    width: 100px;
+    height: 130px;
+    background: url(./documents.png) no-repeat;
+}
+
+.box-photos {
+    width: 100px;
+    height: 130px;
+    background: url(./photos.png) no-repeat;
+}
+
+.text {
+    padding-left: 10px;
+    width: 50%;
+}
+
+.text-title {
+    font-size: 26px;
+}
